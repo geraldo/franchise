@@ -59,7 +59,7 @@
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-preset-env": "^1.6.0",
-    "electron": "^11.5.0",
+    "electron": "^15.5.5",
     "electron-builder": "^21.2.0",
     "file-loader": "^0.11.2",
     "gh-pages": "^1.0.0",
